@@ -2,11 +2,11 @@ package main
 
 import (
 	"flag"
-	"github.com/gabrielmorenobrc/go-lib/auth"
-	"github.com/gabrielmorenobrc/go-lib/react"
-	"github.com/gabrielmorenobrc/go-lib/sql"
-	"github.com/gabrielmorenobrc/go-lib/util"
-	"github.com/gabrielmorenobrc/go-lib/web"
+	"github.com/sparrowhawktech/go-lib/auth"
+	"github.com/sparrowhawktech/go-lib/react"
+	"github.com/sparrowhawktech/go-lib/sql"
+	"github.com/sparrowhawktech/go-lib/util"
+	"github.com/sparrowhawktech/go-lib/web"
 	"net/http"
 	"path/filepath"
 )

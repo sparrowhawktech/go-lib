@@ -1,8 +1,8 @@
 package email
 
 import (
-	"github.com/gabrielmorenobrc/go-lib/util"
 	"github.com/go-gomail/gomail"
+	"github.com/sparrowhawktech/go-lib/util"
 	"strings"
 )
 

@@ -1,7 +1,7 @@
 package react
 
 import (
-	"github.com/gabrielmorenobrc/go-lib/util"
+	"github.com/sparrowhawktech/go-lib/util"
 	"io/ioutil"
 	"net/http"
 )

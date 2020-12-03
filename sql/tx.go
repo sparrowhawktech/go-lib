@@ -4,7 +4,7 @@ import (
 	"context"
 	"database/sql"
 	"fmt"
-	"github.com/gabrielmorenobrc/go-lib/util"
+	"github.com/sparrowhawktech/go-lib/util"
 	"net/http"
 	"reflect"
 )

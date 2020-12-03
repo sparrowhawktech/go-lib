@@ -3,8 +3,8 @@ package web
 import (
 	"context"
 	"fmt"
-	"github.com/gabrielmorenobrc/go-lib/auth"
-	"github.com/gabrielmorenobrc/go-lib/sql"
+	"github.com/sparrowhawktech/go-lib/auth"
+	"github.com/sparrowhawktech/go-lib/sql"
 	"net/http"
 	"strings"
 )

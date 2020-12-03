@@ -6,7 +6,7 @@ import (
 	"crypto/sha256"
 	"encoding/base64"
 	"encoding/json"
-	"github.com/gabrielmorenobrc/go-lib/util"
+	"github.com/sparrowhawktech/go-lib/util"
 	"strings"
 	"sync"
 	"time"

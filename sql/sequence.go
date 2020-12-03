@@ -2,8 +2,8 @@ package sql
 
 import (
 	"database/sql"
-	"github.com/gabrielmorenobrc/go-lib/util"
 	_ "github.com/lib/pq"
+	"github.com/sparrowhawktech/go-lib/util"
 	"sync"
 )
 

@@ -5,7 +5,7 @@ import (
 	"database/sql"
 	"encoding/json"
 	"fmt"
-	"github.com/gabrielmorenobrc/go-lib/util"
+	"github.com/sparrowhawktech/go-lib/util"
 	"reflect"
 	"time"
 )
